@@ -23,6 +23,6 @@ index terms 에서 현대 추천시스템 방법들은 왜 언급되지 않을�
 > There has been much work done both in the industry and academia on developing new approaches to recommender systems over the last decade.
 > The interest in this area still remains high because it constitutes *a problem-rich research area* and because of the abundance of *practical applications* that help users to deal with information overload and provide personalized recommendations, content, and services to them.
 
-산업 : 추천시스템이 정보 과부하를 다뤄 개인화된 추천, 콘텐츠, 서비스를 사용자에게 제공하도록 할 수 있는 실용적 applications가 풍부해서
-학술 : 문제가 많은(problem-rich) 연구 분야라서
++ 산업 : 추천시스템이 정보 과부하를 다뤄 개인화된 추천, 콘텐츠, 서비스를 사용자에게 제공하도록 할 수 있는 실용적 applications가 풍부해서
++ 학술 : 문제가 많은(problem-rich) 연구 분야라서
 
